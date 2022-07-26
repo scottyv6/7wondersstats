@@ -8,7 +8,8 @@
     "blue": 17,
     "commerce": 0,
     "science": 11,
-    "guild": 0
+    "guild": 0,
+    "total": 42
   },
   {
     "gameID": 1,
@@ -19,7 +20,8 @@
     "blue": 8,
     "commerce": 3,
     "science": 16,
-    "guild": 8
+    "guild": 8,
+    "total": 42
   },
   {
     "gameID": 1,
@@ -30,7 +32,8 @@
     "blue": 25,
     "commerce": 0,
     "science": 2,
-    "guild": 0
+    "guild": 0,
+    "total": 40
   },
   {
     "gameID": 2,
@@ -41,7 +44,8 @@
     "blue": 26,
     "commerce": 0,
     "science": 13,
-    "guild": 6
+    "guild": 6,
+    "total": 44
   },
   {
     "gameID": 2,
@@ -52,7 +56,8 @@
     "blue": 14,
     "commerce": 3,
     "science": 13,
-    "guild": 8
+    "guild": 8,
+    "total": 51
   },
   {
     "gameID": 2,
@@ -63,7 +68,8 @@
     "blue": 7,
     "commerce": 3,
     "science": 1,
-    "guild": 15
+    "guild": 15,
+    "total": 55
   },
   {
     "gameID": 3,
@@ -74,7 +80,8 @@
     "blue": 23,
     "commerce": 5,
     "science": 2,
-    "guild": 0
+    "guild": 0,
+    "total": 38
   },
   {
     "gameID": 3,
@@ -85,7 +92,8 @@
     "blue": 10,
     "commerce": 3,
     "science": 10,
-    "guild": 8
+    "guild": 8,
+    "total": 52
   },
   {
     "gameID": 3,
@@ -96,7 +104,8 @@
     "blue": 11,
     "commerce": 7,
     "science": 9,
-    "guild": 0
+    "guild": 0,
+    "total": 51
   },
   {
     "gameID": 3,
@@ -107,7 +116,8 @@
     "blue": 3,
     "commerce": 2,
     "science": 4,
-    "guild": 14
+    "guild": 14,
+    "total": 36
   },
   {
     "gameID": 3,
@@ -118,7 +128,8 @@
     "blue": 0,
     "commerce": 0,
     "science": 34,
-    "guild": 0
+    "guild": 0,
+    "total": 44
   },
   {
     "gameID": 3,
@@ -129,6 +140,7 @@
     "blue": 28,
     "commerce": 0,
     "science": 2,
-    "guild": 3
+    "guild": 3,
+    "total": 50
   }
 ] 
