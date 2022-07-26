@@ -1,0 +1,134 @@
+[
+  {
+    "gameID": 1,
+    "name": "Brady",
+    "city": 3,
+    "treasury": 1,
+    "military": 10,
+    "blue": 17,
+    "commerce": 0,
+    "science": 11,
+    "guild": 0
+  },
+  {
+    "gameID": 1,
+    "name": "Michael",
+    "city": 10,
+    "treasury": 2,
+    "military": -5,
+    "blue": 8,
+    "commerce": 3,
+    "science": 16,
+    "guild": 8
+  },
+  {
+    "gameID": 1,
+    "name": "Louis",
+    "city": 0,
+    "treasury": 2,
+    "military": 11,
+    "blue": 25,
+    "commerce": 0,
+    "science": 2,
+    "guild": 0
+  },
+  {
+    "gameID": 2,
+    "name": "Brady",
+    "city": 3,
+    "treasury": 2,
+    "military": -6,
+    "blue": 26,
+    "commerce": 0,
+    "science": 13,
+    "guild": 6
+  },
+  {
+    "gameID": 2,
+    "name": "Michael",
+    "city": 3,
+    "treasury": 3,
+    "military": 7,
+    "blue": 14,
+    "commerce": 3,
+    "science": 13,
+    "guild": 8
+  },
+  {
+    "gameID": 2,
+    "name": "Louis",
+    "city": 10,
+    "treasury": 2,
+    "military": 17,
+    "blue": 7,
+    "commerce": 3,
+    "science": 1,
+    "guild": 15
+  },
+  {
+    "gameID": 3,
+    "name": "Cynthia",
+    "city": 3,
+    "treasury": 3,
+    "military": -4,
+    "blue": 23,
+    "commerce": 5,
+    "science": 2,
+    "guild": 0
+  },
+  {
+    "gameID": 3,
+    "name": "Andrea",
+    "city": 10,
+    "treasury": 14,
+    "military": 7,
+    "blue": 10,
+    "commerce": 3,
+    "science": 10,
+    "guild": 8
+  },
+  {
+    "gameID": 3,
+    "name": "Michael",
+    "city": 3,
+    "treasury": 5,
+    "military": 16,
+    "blue": 11,
+    "commerce": 7,
+    "science": 9,
+    "guild": 0
+  },
+  {
+    "gameID": 3,
+    "name": "Kate",
+    "city": 10,
+    "treasury": 4,
+    "military": -1,
+    "blue": 3,
+    "commerce": 2,
+    "science": 4,
+    "guild": 14
+  },
+  {
+    "gameID": 3,
+    "name": "Scott",
+    "city": 3,
+    "treasury": 2,
+    "military": 5,
+    "blue": 0,
+    "commerce": 0,
+    "science": 34,
+    "guild": 0
+  },
+  {
+    "gameID": 3,
+    "name": "Brady",
+    "city": 0,
+    "treasury": 2,
+    "military": 3,
+    "blue": 28,
+    "commerce": 0,
+    "science": 2,
+    "guild": 3
+  }
+] 

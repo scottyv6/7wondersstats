@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS 7wonstats_db;
+CREATE DATABASE 7wonstats_db;
